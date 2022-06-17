@@ -14,5 +14,5 @@ Check out my lastest projects
 <hr>
 
 More about me on
-<a href="linkedin.com/in/inta-ozolina">Linkedin</a>
+<a href="http://linkedin.com/in/inta-ozolina">Linkedin</a>
 
