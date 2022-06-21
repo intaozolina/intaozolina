@@ -9,7 +9,7 @@ Persistent and focused on result. </p>
 <p>The more skills I have, the more times I am a Human.</p>
 <hr>
 
-##Check out my latest projects
+<h2>Check out my latest projects</h2>
 <hr>
 <img src="currency-picker.gif" alt="Currency Picker">
 <hr>
@@ -18,7 +18,7 @@ Persistent and focused on result. </p>
 <img src="rick-and-morty-Angular.gif" alt="Rick and Morty Angular">
 <hr>
 
-###More about me on
+<h3>More about me on</h3>
 <a href="http://linkedin.com/in/inta-ozolina">
 <img src="icons8-linkedin-circled-48.png" alt="Linkedin"></a>
 
