@@ -10,7 +10,7 @@ Persistent and focused on result. </p>
 <hr>
 
 <h2>Check out my latest projects</h2>
-<hr>
+
 <img src="currency-picker.gif" alt="Currency Picker">
 <hr>
 <img src="random-name-picker.gif" alt="Random Name Picker">
