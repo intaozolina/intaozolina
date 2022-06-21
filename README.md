@@ -7,12 +7,7 @@ Persistent and focused on result. </p>
 <hr>
 
 Check out my latest projects
-<hr>
-![](currency-picker.gif)
-<hr>
-![](random-name-picker.gif)
-<hr>
-![](rick-and-morty-Angular.gif)
+
 
 <hr>
 More about me on
