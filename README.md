@@ -7,11 +7,9 @@ Persistent and focused on result. </p>
 <hr>
 
 Check out my lastest projects
-
-<a href="https://github.com/intaozolina/MD20.git">Currency Picker</a> |
-<a href="https://github.com/intaozolina/MD27.git">Random Name picker</a> |
-<a href="https://github.com/intaozolina/Nod-22-05.git">Pokemons</a>
 <hr>
+
+<img src="
 
 More about me on
 <a href="http://linkedin.com/in/inta-ozolina">Linkedin</a>
