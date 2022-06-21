@@ -6,11 +6,15 @@ Persistent and focused on result. </p>
 <p>The more skills I have, the more times I am a Human.</p>
 <hr>
 
-Check out my lastest projects
+Check out my latest projects
 <hr>
+![](currency-picker.gif)
+<hr>
+![](random-name-picker.gif)
+<hr>
+![](rick-and-morty-Angular.gif)
 
-<img src="
-
+<hr>
 More about me on
 <a href="http://linkedin.com/in/inta-ozolina">Linkedin</a>
 
