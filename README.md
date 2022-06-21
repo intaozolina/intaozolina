@@ -11,11 +11,11 @@ Persistent and focused on result. </p>
 
 ##Check out my latest projects
 <hr>
-<img src="currency-picker.gif">
+<img src="currency-picker.gif" alt="Currency Picker">
 <hr>
-<img src="random-name-picker.gif">
+<img src="random-name-picker.gif" alt="Random Name Picker">
 <hr>
-<img src="rick-and-morty-Angular.gif">
+<img src="rick-and-morty-Angular.gif" alt="Rick and Morty Angular">
 <hr>
 
 ###More about me on
